@@ -1,0 +1,5 @@
+.card-gap {
+  margin: 8px;
+  display: flex;
+  width: 100%;
+}
